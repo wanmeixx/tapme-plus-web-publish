@@ -1,1 +1,2 @@
+name = "tapme-plus-web-publish"
 pages_build_output_dir = "./public"
